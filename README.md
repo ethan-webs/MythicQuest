@@ -135,14 +135,6 @@ MythicQuest/
 - Modify responsive breakpoints
 - Update typography and spacing
 
-## Browser Support
-
-- **Chrome**: 60+
-- **Firefox**: 55+
-- **Safari**: 12+
-- **Edge**: 79+
-- **Mobile Browsers**: iOS Safari, Chrome Mobile
-
 ## Development Notes
 
 - **No Build Process**: Pure HTML, CSS, and JavaScript
